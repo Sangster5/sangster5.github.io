@@ -1,0 +1,15 @@
+Package: com.sangster5.cleanstreetview
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: Sangster5
+Installed-Size: 0
+Depends: mobilesubstrate
+Filename: debs/sangster5_0.0.1_iphoneos-arm.deb
+Size: 2,802
+MD5sum: 0d288275224417533c87539326232bdc
+SHA1: 3c4fd5c09f43c1426d00bd20a999ad0724766f00
+SHA256: afb5a20b414c97860cc5a31300ee9c69e71cdf70d372ab1682f40a2e26e7c2f7
+Section: Tweaks
+Description: Removes clutter from google street view.
+Author: Sangster5
+Name: Clean Street View
