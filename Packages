@@ -20,8 +20,8 @@ Architecture: iphoneos-arm
 Maintainer: Sangster5
 Installed-Size: 0
 Depends: mobilesubstrate
-Filename: debs/sangster_sbcustom_0.0.8_iphoneos-arm.deb
-Size: 8980
+Filename: debs/sangster_sbcustomize_0.0.8_iphoneos-arm.deb
+Size: 22078
 MD5sum: ff03950750421786cfeca1875ed2f79d
 SHA1: 255ae758ba2fb887a8c88433a3031a9f3ed0bd12
 SHA256: 2037daf3d01e7570a4bcb9702f746c4270069bceb96dea8b1190116b6d91fc98
