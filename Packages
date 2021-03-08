@@ -11,7 +11,7 @@ SHA1: 3c4fd5c09f43c1426d00bd20a999ad0724766f00
 SHA256: afb5a20b414c97860cc5a31300ee9c69e71cdf70d372ab1682f40a2e26e7c2f7
 Section: Tweaks
 Description: Removes clutter from google street view.
-Author: Sangster5
+Author: Songster
 Name: Clean Street View
 
 Package: com.sangster5.sbcustomizer
@@ -21,11 +21,11 @@ Maintainer: Sangster5
 Installed-Size: 0
 Depends: mobilesubstrate
 Filename: debs/sangster_sbcustom_0.0.3_iphoneos-arm.deb
-Size: 8280
-MD5sum: b06d3a1bd103544c1814e245b2be32ef
-SHA1: 1f77f75b1618d0d7a7afeca1c950af3e917cdd8f
-SHA256: 8b2fd65e78ab03c0f85200d7145167b2bd521a699843035dad91b349d2eaebbb
+Size: 8980
+MD5sum: df4218710f176c86fd5709a4fc4e83cd
+SHA1: b0ed0431977ef97b1efe2ce58d4a540543ff1f7c
+SHA256: 940bbac7eb596abe13bf0770f173abd6c3982c792ce1d7721bc393889e74ca5e
 Section: Tweaks
-Description: SpringBoard Customizing tool. Supports iOS 13, 14.
+Description: Tweak that allows you to customize iOS in many ways for free.
 Author: Sangster5
-Name: SBCustomizer
+Name: SBCustomize
