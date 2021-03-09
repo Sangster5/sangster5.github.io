@@ -38,9 +38,9 @@ Installed-Size: 0
 Depends: mobilesubstrate
 Filename: debs/sangster_sbcustomize_0.1.4_iphoneos-arm.deb
 Size: 1069914
-MD5sum: 72c6dc2b3e342d801355cb517829798d
-SHA1: 995bcaf8ba10431a8fac40b3236e887d418ede0e
-SHA256: aa6ce6d0288637ceeb7b4deed4def32d59c8848a0e4519daa85222bdb38630aa
+MD5sum: a84000f540e489b6d5ca4bccda1156d5
+SHA1: 962fb9bef0985285607901e4d6ddf62f082b86e8
+SHA256: 3a23f79e1ea9b76e26f21afbff26313bc4429163f99b843ae437866c41cc3a28
 Section: Tweaks
 Description: Tweak that allows you to customize iOS in many ways for free. Supports iOS 13-14.
 Author: Sangster5
