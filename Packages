@@ -99,7 +99,7 @@ Version: 0.5.0
 Architecture: iphoneos-arm
 Maintainer: Sangster5
 Installed-Size: 0
-Depends: mobilesubstrate, CepheiPrefs
+Depends: mobilesubstrate
 Filename: debs/sangster_sbcustomize_0.5.0_iphoneos-arm.deb
 Size: 667246
 MD5sum: 51a4eb5925b85c52d7693ebb7a9218d1
