@@ -45,3 +45,19 @@ Section: Tweaks
 Description: Tweak that allows you to customize iOS in many ways for free. Supports iOS 13-14.
 Author: Sangster5
 Name: SBCustomize
+
+Package: com.sangster5.sbcustomizer
+Version: 0.2.5
+Architecture: iphoneos-arm
+Maintainer: Sangster5
+Installed-Size: 0
+Depends: mobilesubstrate
+Filename: debs/sangster_sbcustomize_0.2.5_iphoneos-arm.deb
+Size: 1069778
+MD5sum: 4faf7b60e9d1510623f1ad0d52509dd4
+SHA1: 6a78ce7095c78449af6f414fde4463780564e229
+SHA256: 3fd65eedde612f543f9e251653ad102ae4960e02f49b85d580cfbe621790eb74
+Section: Tweaks
+Description: Tweak that allows you to customize iOS in many ways for free. Supports iOS 13-14.
+Author: Sangster5
+Name: SBCustomize
