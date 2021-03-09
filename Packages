@@ -15,16 +15,16 @@ Author: Songster
 Name: Clean Street View
 
 Package: com.sangster5.sbcustomizer
-Version: 0.0.8
+Version: 0.1.2
 Architecture: iphoneos-arm
 Maintainer: Sangster5
 Installed-Size: 0
 Depends: mobilesubstrate
 Filename: debs/sangster_sbcustomize_0.0.8_iphoneos-arm.deb
 Size: 1069002
-MD5sum: a8acb00c6a728948be51d20642de366f
-SHA1: f35149ac64bee24860598c928468380895b9d9a3
-SHA256: 1b82960b68a640377581b37d14b931a09d8f56036999e42c420c744c19d3b259
+MD5sum: 9a00b7aaa198e362c5b389f6622439fe
+SHA1: 4ccc31822a71b2c1ca6bb49d87ee66110fc7e274
+SHA256: 52dd5852ef4f8b47b6c32fe4666494493ddc639af7d46b5b598e0f63112de6c5
 Section: Tweaks
 Description: Tweak that allows you to customize iOS in many ways for free.
 Author: Sangster5
