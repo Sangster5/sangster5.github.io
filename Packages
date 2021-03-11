@@ -62,3 +62,19 @@ Description: Tweak that allows you to customize iOS in many ways for free. Suppo
 Author: Sangster
 Name: WaveAway
 
+Package: com.sangster5.waveaway
+Version: 0.9.3
+Architecture: iphoneos-arm
+Maintainer: Sangster5
+Installed-Size: 0
+Depends: mobilesubstrate, com.spark.libsparkcolourpicker
+Filename: debs/sangster_waveaway_0.9.3_iphoneos-arm.deb
+Size: 666726
+MD5sum: 223ffd42343531ffc225b39bf8a7eb07
+SHA1: ca9ad096e5a75473885ec9bcdaca5eb6ade02bb2
+SHA256: 9ed62e23c262a2d75842b84710684a3428405b2610d874af014c02e8ebf788f3
+Section: Tweaks
+Description: Tweak that allows you to customize iOS in many ways for free. Supports iOS 13-14.
+Author: Sangster
+Name: WaveAway
+
