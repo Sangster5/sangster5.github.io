@@ -15,22 +15,6 @@ Author: Sangster
 Name: Clean Street View
 
 Package: com.sangster5.waveaway
-Version: 0.6.0
-Architecture: iphoneos-arm
-Maintainer: Sangster5
-Installed-Size: 0
-Depends: mobilesubstrate
-Filename: debs/sangster_waveaway_0.6.0_iphoneos-arm.deb
-Size: 667154
-MD5sum: 917e66cb83fbcea7e285fb3b53cbd703
-SHA1: 12696bd86dc7e76058a4a2a9cb0b1e3116a5e91c
-SHA256: 7193ac2541bea30f3b2db4d10bdb6f0c425c73aa45ace805534e38df1569106b
-Section: Tweaks
-Description: Tweak that allows you to customize iOS in many ways for free. Supports iOS 13-14.
-Author: Sangster
-Name: WaveAway
-
-Package: com.sangster5.waveaway
 Version: 0.9.0
 Architecture: iphoneos-arm
 Maintainer: Sangster5
@@ -78,3 +62,18 @@ Description: Tweak that allows you to customize iOS in many ways for free. Suppo
 Author: Sangster
 Name: WaveAway
 
+Package: com.sangster5.waveaway
+Version: 0.9.4
+Architecture: iphoneos-arm
+Maintainer: Sangster5
+Installed-Size: 0
+Depends: mobilesubstrate, com.spark.libsparkcolourpicker
+Filename: debs/sangster_waveaway_0.9.4_iphoneos-arm.deb
+Size: 666636
+MD5sum: 7be43e27fd4f538a4d9df4833c168adb
+SHA1: 7baea269000e48d7904d6e78f4549dd448ef9966
+SHA256: 002aae95b8d6dd0ac6b0ce6229bde0a76a57309474591eab02db1a15232e69ce
+Section: Tweaks
+Description: Tweak that allows you to customize iOS in many ways for free. Supports iOS 13-14.
+Author: Sangster
+Name: WaveAway
