@@ -117,10 +117,10 @@ Maintainer: Sangster5
 Installed-Size: 0
 Depends: mobilesubstrate, com.spark.libsparkcolourpicker, ws.hbang.common (>= 1.14)
 Filename: debs/sangster_waveaway_0.9.7_iphoneos-arm.deb
-Size: 692088
-MD5sum: 4ef59691b1657ad50ab99831f6d8fe59
-SHA1: e403ba4c80b57f98acd2373edcad0d7931e8c400
-SHA256: ab8d1428ff9857b8501e21c40c630b47f235921accdd355f188bda122d5c537a
+Size: 692190
+MD5sum: c07802b584c0d1243708695ea3624b90
+SHA1: 5ab7e84f6f46d2ef5ceb94e388fbae2df1ea2aa5
+SHA256: 44438c324464582992a44cc58fa11aeb37c218ff7f8a839206ad569837f384e0
 Section: Tweaks
 Description: Tweak that allows you to customize iOS in many ways for free. Supports iOS 13 and 14.
 Author: Sangster
